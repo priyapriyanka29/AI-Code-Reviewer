@@ -1,0 +1,12 @@
+code = input("Paste your code: ")
+
+if "print" in code:
+    print("Good: Output statements found")
+
+if "==" in code:
+    print("Check: Make sure comparison is correct")
+
+if len(code) < 20:
+    print("Warning: Code too short")
+
+print("Basic Review Completed")
