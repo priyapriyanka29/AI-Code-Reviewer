@@ -14,7 +14,7 @@ A Python-based tool that analyzes code and provides basic suggestions to improve
 
 * Python
 
-## ▶️ Run
+## ▶️ Run                 
 
 ```bash
 python main.py
