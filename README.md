@@ -11,7 +11,7 @@ A Python-based tool that analyzes code and provides basic suggestions to improve
 * Simple rule-based review system
 
 ## 🛠️ Tech Used
-              
+                   
 * Python
             
 ## ▶️ Run                 
